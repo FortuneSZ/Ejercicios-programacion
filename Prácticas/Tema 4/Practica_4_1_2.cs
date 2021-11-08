@@ -48,7 +48,7 @@ class Practica_4_1_2
 		{
 			for (int j=0;j< matriz[i].Length;j++)
 			{
-				Console.Write(matriz[i][j]);
+				Console.Write(matriz[i][j]+" ");
 			}
 			Console.WriteLine("");
 		}
@@ -65,9 +65,9 @@ class Practica_4_1_2
 		}
 		for (int i=0;i<matriz.Length;i++)
 		{
-			for (int j=0;j< i;j++)
+			for (int j=0;j< matriz.Length;j++)
 			{
-				if (matriz[i][j] !=0)
+				if (i==j && matriz[i][j]!=1)
 				{
 					identidad=false;
 				}
