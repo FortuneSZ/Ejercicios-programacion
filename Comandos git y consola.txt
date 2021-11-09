@@ -1,0 +1,45 @@
+|---Comandos Git---------------------------------------------------------------------
+|Git init --> Inicializar el repositorio
+|
+|Git status --> Muestra el estado del archivo 
+|
+|Git add --> Añade un archivo al repositorio
+|
+|Git add . --> Añade todos los archivos de la carpeta
+|
+|Git reset --> Resetear el archivo
+|
+|git reset --hard --> Escoger commit y reseteo (copiar codigo commit)
+|
+|Git commit --> Guarda el archivo de forma definitiva
+|
+|Git rm --> Borra el archivo del repositorio
+|
+|git config --global user.name "youruser" --> Configurar tu nombre
+|
+|git config --global user.email "yourmail" --> Configura tu email
+|
+|Git log --> Muestra un log de lo que has realizado
+|
+|git branch --> saber que rama esta
+|
+|git branch "mensaje" --> se crea una rama 
+|
+|git branch -M main --> Renombra la rama como main
+|
+|git checkout "rama existente" --> cambiar de rama
+|
+|git branch -d "rama existente" --> borra la rama
+|
+|git merge --> básicamente sube los cambios de un archivo de una rama de desarrollo a otra(fusiona el contenido de ambas ramas)
+|
+|git pull --> traer la versión actual de la red al repositorio local
+|
+|git remote add origin -->Se conecta al dispositivo remoto que le indiquemos
+|
+|git push -u origin main --> Sube los cambios al repositorio remoto establecido en la rama main
+|---Comandos consola---
+|
+|cls --> Borrar la consola
+|
+|cd --> Dirigirnos a un archivo
