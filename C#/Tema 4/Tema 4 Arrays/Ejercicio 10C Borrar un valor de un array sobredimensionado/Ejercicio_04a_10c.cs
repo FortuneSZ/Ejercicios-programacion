@@ -24,11 +24,6 @@ anteriores,en este añadiremos la opción de borrar un título del array */
 			 juegos[cantidad] = ultimoJuego;
 			 cantidad++;
 		 }
-		 Console.WriteLine("Listado de juegos");
-		 for(int i=0; i < cantidad; i++)
-		 {
-			 Console.WriteLine(juegos[i]);
-		 }
 		 // Insertar nuevo dato en posicion 3 //
 		 Console.WriteLine("Insertamos nuevo dato en la posicion 3");
 		 int posicion = 3;
@@ -38,7 +33,7 @@ anteriores,en este añadiremos la opción de borrar un título del array */
 			 {
 				 juegos[i] = juegos [i-1];
 			 }
-			 juegos[posicion] = "New World";
+			 juegos[posicion-1] = "New World";
 			 cantidad++;
 		 }
 		 
