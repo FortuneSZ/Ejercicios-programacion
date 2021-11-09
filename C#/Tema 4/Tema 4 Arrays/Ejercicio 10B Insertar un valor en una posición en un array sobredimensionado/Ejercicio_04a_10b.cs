@@ -21,29 +21,22 @@ título,el cual será colocado en la posición 3 */
 		 {
 			 Console.WriteLine("Escribe un nuevo videojuego");
 			 ultimoJuego = Console.ReadLine();
-			 juegos[cantidad] = ultimoJuego;
-			 cantidad++;
-		 }
-		 Console.WriteLine("Listado de juegos");
-		 for(int i=0; i < cantidad; i++)
-		 {
-			 Console.WriteLine(juegos[i]);
 		 }
 		 // Insertar nuevo dato en posicion 3 //
 		 Console.WriteLine("Insertamos nuevo dato en la posicion 3");
 		 int posicionInsertar = 3;
-		 for(int i = cantidad; i >= posicionInsertar; i--)
+		 for(int i = cantidad; i > posicionInsertar-1; i--)
 		 {
 			 juegos[i] = juegos [i-1];
 		 }
-		 juegos[posicionInsertar] = ultimoJuego;
+		 juegos[posicionInsertar-1] = ultimoJuego;
 		 cantidad++;
 		 
-		 Console.WriteLine("Listado de juegos");
-		 for(int i = 0; i < cantidad; i++)
-		 {
-			 Console.WriteLine(juegos[i]);
-		 }
+		Console.WriteLine("Listado de juegos");
+		for(int i = 0; i < cantidad; i++)
+		{
+			Console.WriteLine(juegos[i]);
+		}
 			 
 	 }
  }
