@@ -19,8 +19,9 @@ class Practica_4_2
 	}	
 	static void Main()
 	{
-		string eleccionborrar,nombrebuscar;
-		int option,numalum=0,seleccion;
+		string elecborrar,nombuscar;
+		int option,numalum=0,seleccion,numaprobados=0;
+		bool encontrado=false;
 		alumno [] alumnos = new alumno[50];
 		
 		do
@@ -39,16 +40,16 @@ class Practica_4_2
 			Console.WriteLine("^*^*^*^*^*^*^*^*^*^*^*^*^*^");
 			option = Convert.ToInt32(Console.ReadLine());
 			
-			switch (option)
+			switch ((menu)option)
 			{
-				case 0:
+				case menu.SALIR:
 					Console.Clear();
 					Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*");
 					Console.WriteLine("^ "+"HA SELECCIONADO SALIR");
 					Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*");
 					break;
 				
-				case 1:
+				case menu.NUEVO:
 
 					Console.Clear();
 					if (numalum < alumnos.Length)
@@ -61,7 +62,7 @@ class Practica_4_2
 							"INTRODUCE EL NOMBRE DEL ALUMNO");
 							Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
 							+"^*^");
-							alumnos[numalum+1].nombre = Console.ReadLine();
+							alumnos[numalum].nombre = Console.ReadLine();
 							Console.Clear();
 							
 							
@@ -71,7 +72,7 @@ class Practica_4_2
 							" DEL ALUMNO");
 							Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
 							+"^*");
-							alumnos[numalum+1].email = Console.ReadLine();
+							alumnos[numalum].email = Console.ReadLine();
 							Console.Clear();
 							
 							Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^"
@@ -85,31 +86,31 @@ class Practica_4_2
 							Console.Clear();
 							
 							Console.WriteLine("*^*^*^*^*^");
-							Console.WriteLine("^ "+"PRACTICA");
+							Console.WriteLine("^ "+"PRÁCTICA");
 							Console.WriteLine("*^*^*^*^*^");
-							alumnos[numalum+1].calificaciones.notaspractica
+							alumnos[numalum].calificaciones.notaspractica
 							=Convert.ToSingle(Console.ReadLine());
 							Console.Clear();
 							
 							Console.WriteLine("*^*^*^*^");
-							Console.WriteLine("^ "+"TEORIA");
+							Console.WriteLine("^ "+"TEORÍA");
 							Console.WriteLine("*^*^*^*^");
-							alumnos[numalum+1].calificaciones.notasteoria
+							alumnos[numalum].calificaciones.notasteoria
 							=Convert.ToSingle(Console.ReadLine());
-							if(alumnos[numalum+1].calificaciones.notaspractica<0
-							|| alumnos[numalum+1].calificaciones.
+							if(alumnos[numalum].calificaciones.notaspractica<0
+							|| alumnos[numalum].calificaciones.
 							notaspractica>10
-							|| alumnos[numalum+1].calificaciones.notasteoria<0
-							|| alumnos[numalum+1].calificaciones.notasteoria>10)
+							|| alumnos[numalum].calificaciones.notasteoria<0
+							|| alumnos[numalum].calificaciones.notasteoria>10)
 							{
 								Console.WriteLine("");
 								Console.WriteLine("Valores de calificaciones"+
 								 " no válidos");
-								 alumnos[numalum+1].nombre ="";
-								 alumnos[numalum+1].email ="";
-								 alumnos[numalum+1].calificaciones.notaspractica
+								 alumnos[numalum].nombre ="";
+								 alumnos[numalum].email ="";
+								 alumnos[numalum].calificaciones.notaspractica
 								 =0;
-								 alumnos[numalum+1].calificaciones.
+								 alumnos[numalum].calificaciones.
 								 notasteoria=0;
 								 Console.ReadLine(); 
 							}
@@ -121,7 +122,7 @@ class Practica_4_2
 						catch (Exception e)
 						{
 							Console.WriteLine("");
-							Console.WriteLine("Error:valores no validos");
+							Console.WriteLine("Error:valores no válidos");
 							Console.WriteLine(e.Message);
 							Console.ReadLine();
 						}
@@ -133,7 +134,7 @@ class Practica_4_2
 					Console.Clear();
 					break;
 					
-				case 2:
+				case menu.BORRAR:
 				Console.Clear();
 				Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
 					+"^*^*^*^*^*");
@@ -158,21 +159,21 @@ class Practica_4_2
 						Console.WriteLine("*^*^*^*^*^*^*^*");
 						Console.WriteLine("S/N");
 						Console.WriteLine("*^*^*^*^*^*^*^*");
-						eleccionborrar = Console.ReadLine();
+						elecborrar = Console.ReadLine();
 						Console.Clear();
-						if (eleccionborrar == "S")
+						if (elecborrar == "S")
 						{
 							for (int i=seleccion;i<=numalum;i++)
 							{
-								alumnos[i] = alumnos[i+1];
+								alumnos[i-1] = alumnos[i];
 							}
 							numalum--;
 							Console.Clear();
 						}
-						else if (eleccionborrar == "N")
+						else if (elecborrar == "N")
 						{
 							Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^");
-							Console.WriteLine("Ha denegado la eliminacion");
+							Console.WriteLine("Ha denegado la eliminación");
 							Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^");
 							Console.ReadLine();
 							Console.Clear();
@@ -180,35 +181,49 @@ class Practica_4_2
 						}
 						else
 						{
-							Console.WriteLine("Seleccion no valida");
+							Console.WriteLine("Selección no válida");
 						}
 					}
 				break;
 				
-				case 3:
-					Console.Clear();
-					Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
-					+"^*^*^*");
-					 Console.WriteLine("alumnos - email - teoría -"+
-					" práctica");
-					Console.WriteLine("");
-					for (int i=0;i<numalum;i++)
-					 {
-						 Console.Write(alumnos[i+1].nombre + " - ");
-						 Console.Write(alumnos[i+1].email + " - ");
-						 Console.Write(alumnos[i+1].calificaciones.
-						 notasteoria+ " - ");
-						 Console.WriteLine(alumnos[i+1].calificaciones.
-						 notaspractica);
-					 }
-					 Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
-					+"^*^*^*");
-					Console.WriteLine("Pulse enter para continuar");
-					Console.ReadLine();
-					Console.Clear();
+				case menu.VER:
+					if (numalum>0)
+					{
+						Console.Clear();
+						Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
+						+"^*^*^*");
+						Console.WriteLine("alumnos - email - teoría -"+
+						" práctica");
+						Console.WriteLine("");
+						for (int i=0;i<numalum;i++)
+						{
+							Console.Write(alumnos[i].nombre + " - ");
+							Console.Write(alumnos[i].email + " - ");
+							Console.Write(alumnos[i].calificaciones.
+							notasteoria+ " - ");
+							Console.WriteLine(alumnos[i].calificaciones.
+							notaspractica);
+						}
+						Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
+						+"^*^*^*");
+						Console.WriteLine("Pulse enter para continuar");
+						Console.ReadLine();
+						Console.Clear();
+					}
+					else
+					{
+						Console.Clear();
+						Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^");
+						Console.WriteLine("No hay alumnos que mostrar");
+						Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^");
+						Console.WriteLine("Pulse enter para continuar");
+						Console.ReadLine();
+						Console.Clear();
+					}
+					
 				break;
 				
-				case 4:
+				case menu.APROBADOS:
 					Console.Clear();
 					Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
 					+"^*^*^*");
@@ -216,7 +231,7 @@ class Practica_4_2
 					" práctica");
 					Console.WriteLine("");
 					
-					for (int i=1;i<=numalum;i++)
+					for (int i=0;i<=numalum;i++)
 					{
 						if (alumnos[i].calificaciones.notasteoria *7/10 +
 						alumnos[i].calificaciones.notaspractica *3/10 >=5 &&
@@ -229,23 +244,38 @@ class Practica_4_2
 							notasteoria+ " - ");
 							Console.WriteLine(alumnos[i].calificaciones.
 							notaspractica);
+							numaprobados++;
 						}
 					}
-					Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
-					+"^*^*^*");
-					Console.WriteLine("^ "+"Pulse enter para continuar");
-					Console.ReadLine();
-					Console.Clear();
+					if (numaprobados==0)
+						{
+							Console.Clear();
+							Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^");
+							Console.WriteLine("No hay alumnos que mostrar");
+							Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^");
+							Console.WriteLine("Pulse enter para continuar");
+							Console.ReadLine();
+							Console.Clear();
+						}
+					else
+					{
+						Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
+						+"^*^*^*");
+						Console.WriteLine("Pulse enter para continuar");
+						Console.ReadLine();
+						Console.Clear();
+					}
+					numaprobados=0;
 				break;
 				
-				case 5:
+				case menu.PORNOMBRE:
 					Console.Clear();
 					Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
 					+"^*^");
-					Console.WriteLine("^ "+"introduzaca el nombre a buscar");
+					Console.WriteLine("^ "+"introduzca el nombre a buscar");
 					Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
 					+"^*^");
-					nombrebuscar = Console.ReadLine();
+					nombuscar = Console.ReadLine();
 					Console.Clear();
 					
 					Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
@@ -255,26 +285,41 @@ class Practica_4_2
 					Console.WriteLine("");
 					for (int i=0;i<numalum;i++)
 					 {
-						if (alumnos[i+1].nombre.ToUpper().Contains(nombrebuscar.
+						if (alumnos[i].nombre.ToUpper().Contains(nombuscar.
 						ToUpper()))
 						{
-							Console.Write(alumnos[i+1].nombre + " - ");
-							Console.Write(alumnos[i+1].email + " - ");
-							Console.Write(alumnos[i+1].calificaciones.
+							Console.Write(alumnos[i].nombre + " - ");
+							Console.Write(alumnos[i].email + " - ");
+							Console.Write(alumnos[i].calificaciones.
 							notasteoria+ " - ");
-							Console.WriteLine(alumnos[i+1].calificaciones.
+							Console.WriteLine(alumnos[i].calificaciones.
 							notaspractica);
+							encontrado=true;
 						}
-					 }
-					 Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
-					+"^*^*^*");
-					Console.WriteLine("Pulse enter para continuar");
-					Console.ReadLine();
-					Console.Clear();
+					}
+					if (encontrado==false)
+					{
+						Console.Clear();
+						Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^");
+						Console.WriteLine("No hay alumnos que mostrar");
+						Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^");
+						Console.WriteLine("Pulse enter para continuar");
+						Console.ReadLine();
+						Console.Clear();
+					}
+					else
+					{
+						Console.WriteLine("*^*^*^*^*^*^*^*^*^*^*^*^*^*^*"
+						+"^*^*^*");
+						Console.WriteLine("Pulse enter para continuar");
+						Console.ReadLine();
+						Console.Clear();
+					}
+				encontrado=false;
 				break;	
 			}
 		}
-		while(option!=0);	
+		while(option!=(int)menu.SALIR);	
 	}
 }
 
