@@ -1,4 +1,6 @@
-/**/
+/*Este programa genera un número aleatório del 1 al 100 y le da al usuario 5
+intentos para adivinarlo,tras cada intento en caso de no acertar le dirá al 
+usuario si el número es mayor o menor al introducido*/
 using System;
 
 

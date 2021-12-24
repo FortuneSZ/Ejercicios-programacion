@@ -1,4 +1,5 @@
-/**/
+/*Este programa pedirá su edad al usuario hasta que introduzca un valor válido
+(entre 0 y 120)*/
 using System;
 
 

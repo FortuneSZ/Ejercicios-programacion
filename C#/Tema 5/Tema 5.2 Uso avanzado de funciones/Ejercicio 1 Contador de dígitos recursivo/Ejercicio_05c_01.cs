@@ -16,6 +16,10 @@ class Ejercicio_05c_01
 
     public static void Main()
     {
-        Console.WriteLine(AmountOfDigitsR(131248));
+        int numero;
+        Console.WriteLine("escribe un número");
+        numero = Convert.ToInt32(Console.ReadLine());
+        Console.Clear();
+        Console.WriteLine(AmountOfDigitsR(numero));
     }
 }

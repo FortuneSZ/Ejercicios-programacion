@@ -2,7 +2,7 @@
  * string con el texto invertido */
 using System;
 
-public class FunctionReverseRecursive
+public class Ejercicio_05c_03
 {
      static string Reverse(string entrada)
     {

@@ -1,7 +1,7 @@
 /* programa que dibuje la bandera de un pais */
 
 using System;
-class Ejercicio_05b_04
+class Ejercicio_05b_04b
 {
     static void Main()
     {
