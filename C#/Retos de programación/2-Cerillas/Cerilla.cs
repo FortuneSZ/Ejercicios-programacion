@@ -4,11 +4,13 @@
  using System;
  
  class Cerilla
- {static void Main()
+ {
+     static void Main()
      {
          int triangulo = 0,altura, cerilla;
          do
          {
+             Console.WriteLine("Escribe la altura");
              altura = Convert.ToInt32(Console.ReadLine());
              if (altura != 0)
              {
@@ -22,6 +24,4 @@
          }
          while (altura != 0);
      }
-    
-     
  }
