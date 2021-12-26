@@ -21,7 +21,4 @@ class ejercicio_01c_11
 			}
 	}	
 	
-	
-
-
 }
