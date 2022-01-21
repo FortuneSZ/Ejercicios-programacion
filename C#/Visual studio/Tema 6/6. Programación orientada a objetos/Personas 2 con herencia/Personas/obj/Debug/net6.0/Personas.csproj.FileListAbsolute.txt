@@ -1,0 +1,60 @@
+C:\Users\Nacho\source\repos\Personas\Personas\bin\Debug\net6.0\Personas.exe
+C:\Users\Nacho\source\repos\Personas\Personas\bin\Debug\net6.0\Personas.deps.json
+C:\Users\Nacho\source\repos\Personas\Personas\bin\Debug\net6.0\Personas.runtimeconfig.json
+C:\Users\Nacho\source\repos\Personas\Personas\bin\Debug\net6.0\Personas.dll
+C:\Users\Nacho\source\repos\Personas\Personas\bin\Debug\net6.0\ref\Personas.dll
+C:\Users\Nacho\source\repos\Personas\Personas\bin\Debug\net6.0\Personas.pdb
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\Personas.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\Personas.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\Personas.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\Personas.dll
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\ref\Personas.dll
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\Personas.pdb
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\Personas.genruntimeconfig.cache
+C:\Users\Nacho\source\repos\Personas\Personas\obj\Debug\net6.0\Personas.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\Personas.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\Personas.AssemblyInfoInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\Personas.AssemblyInfo.cs
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\Personas.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\Personas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\ref\Personas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\Personas.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\bin\Debug\net6.0\Personas.exe
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\bin\Debug\net6.0\Personas.deps.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\bin\Debug\net6.0\Personas.runtimeconfig.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\bin\Debug\net6.0\Personas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\bin\Debug\net6.0\ref\Personas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\bin\Debug\net6.0\Personas.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas\Personas\obj\Debug\net6.0\Personas.genruntimeconfig.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.exe
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.deps.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.runtimeconfig.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\bin\Debug\net6.0\ref\Personas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.AssemblyInfoInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.AssemblyInfo.cs
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\ref\Personas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.genruntimeconfig.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.exe
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.deps.json
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.runtimeconfig.json
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\bin\Debug\net6.0\ref\Personas.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\bin\Debug\net6.0\Personas.pdb
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.csproj.AssemblyReference.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.AssemblyInfoInputs.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.AssemblyInfo.cs
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.csproj.CoreCompileInputs.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\ref\Personas.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.pdb
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Personas 2 con herencia\Personas\obj\Debug\net6.0\Personas.genruntimeconfig.cache

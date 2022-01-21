@@ -1,0 +1,59 @@
+C:\Users\Nacho\source\repos\Coches\Coches\obj\Debug\net6.0\Coches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\Coches\Coches\obj\Debug\net6.0\Coches.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\Coches\Coches\obj\Debug\net6.0\Coches.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\Coches\Coches\obj\Debug\net6.0\Coches.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Coches\Coches\bin\Debug\net6.0\Coches.exe
+C:\Users\Nacho\source\repos\Coches\Coches\bin\Debug\net6.0\Coches.deps.json
+C:\Users\Nacho\source\repos\Coches\Coches\bin\Debug\net6.0\Coches.runtimeconfig.json
+C:\Users\Nacho\source\repos\Coches\Coches\bin\Debug\net6.0\Coches.dll
+C:\Users\Nacho\source\repos\Coches\Coches\bin\Debug\net6.0\ref\Coches.dll
+C:\Users\Nacho\source\repos\Coches\Coches\bin\Debug\net6.0\Coches.pdb
+C:\Users\Nacho\source\repos\Coches\Coches\obj\Debug\net6.0\Coches.dll
+C:\Users\Nacho\source\repos\Coches\Coches\obj\Debug\net6.0\ref\Coches.dll
+C:\Users\Nacho\source\repos\Coches\Coches\obj\Debug\net6.0\Coches.pdb
+C:\Users\Nacho\source\repos\Coches\Coches\obj\Debug\net6.0\Coches.genruntimeconfig.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\Coches.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\Coches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\Coches.AssemblyInfoInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\Coches.AssemblyInfo.cs
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\Coches.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\Coches.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\ref\Coches.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\Coches.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\bin\Debug\net6.0\Coches.exe
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\bin\Debug\net6.0\Coches.deps.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\bin\Debug\net6.0\Coches.runtimeconfig.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\bin\Debug\net6.0\Coches.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\bin\Debug\net6.0\ref\Coches.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\bin\Debug\net6.0\Coches.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\Coches\Coches\obj\Debug\net6.0\Coches.genruntimeconfig.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.exe
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.deps.json
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.runtimeconfig.json
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\ref\Coches.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.pdb
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.csproj.AssemblyReference.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.AssemblyInfoInputs.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.AssemblyInfo.cs
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.csproj.CoreCompileInputs.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\ref\Coches.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.pdb
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\ref\Coches.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\bin\Debug\net6.0\Coches.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\ref\Coches.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\Coches con herencia\Coches\obj\Debug\net6.0\Coches.genruntimeconfig.cache

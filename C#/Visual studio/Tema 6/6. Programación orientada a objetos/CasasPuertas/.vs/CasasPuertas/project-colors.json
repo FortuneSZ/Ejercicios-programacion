@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "199f7ac5-07b8-426e-9503-47cebd819806": {
+      "ProjectGuid": "199f7ac5-07b8-426e-9503-47cebd819806",
+      "DisplayName": "CasasPuertas",
+      "ColorIndex": 0
+    },
+    "6747d957-eb32-42a0-bb92-12a6374ea45c": {
+      "ProjectGuid": "6747d957-eb32-42a0-bb92-12a6374ea45c",
+      "DisplayName": "Cajas",
+      "ColorIndex": 1
+    },
+    "f0d2b243-efbe-450c-8cd8-50e9f9f975da": {
+      "ProjectGuid": "f0d2b243-efbe-450c-8cd8-50e9f9f975da",
+      "DisplayName": "Coches",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

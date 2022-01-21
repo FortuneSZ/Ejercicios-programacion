@@ -1,0 +1,15 @@
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.exe
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.deps.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.runtimeconfig.json
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\bin\Debug\net6.0\ref\CasasPuertas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfoInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfo.cs
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\ref\CasasPuertas.dll
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.pdb
+C:\Users\Álvaro\Desktop\Clase\Programacion\Ejercicios\Proyectos_VStudio\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.genruntimeconfig.cache

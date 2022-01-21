@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bc0723e-40e0-426b-a3c5-0f260f19959b": {
+      "ProjectGuid": "2bc0723e-40e0-426b-a3c5-0f260f19959b",
+      "DisplayName": "Coches",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

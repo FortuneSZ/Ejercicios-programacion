@@ -1,0 +1,30 @@
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.exe
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.deps.json
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.runtimeconfig.json
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\ref\CasasPuertas.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.pdb
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.AssemblyReference.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfoInputs.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfo.cs
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.CoreCompileInputs.cache
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\ref\CasasPuertas.dll
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.pdb
+C:\Users\eros\Documents\Programacion\C#\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.genruntimeconfig.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\ref\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\bin\Debug\net6.0\CasasPuertas.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\ref\CasasPuertas.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Tema 6\6. Programación orientada a objetos\CasasPuertas\CasasPuertas\obj\Debug\net6.0\CasasPuertas.genruntimeconfig.cache

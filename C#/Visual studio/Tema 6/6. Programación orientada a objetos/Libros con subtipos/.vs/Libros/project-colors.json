@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9f837ee-c8ad-43b5-9f15-39315493d86f": {
+      "ProjectGuid": "a9f837ee-c8ad-43b5-9f15-39315493d86f",
+      "DisplayName": "Libros",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
