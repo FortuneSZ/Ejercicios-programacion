@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio2(W.I.P)\\Ejercicio2(W.I.P).csproj": {}
+    "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio 2 Busca minas\\Ejercicio2(W.I.P)\\Ejercicio2(W.I.P).csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio2(W.I.P)\\Ejercicio2(W.I.P).csproj": {
+    "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio 2 Busca minas\\Ejercicio2(W.I.P)\\Ejercicio2(W.I.P).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio2(W.I.P)\\Ejercicio2(W.I.P).csproj",
+        "projectUniqueName": "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio 2 Busca minas\\Ejercicio2(W.I.P)\\Ejercicio2(W.I.P).csproj",
         "projectName": "Ejercicio2(W.I.P)",
-        "projectPath": "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio2(W.I.P)\\Ejercicio2(W.I.P).csproj",
+        "projectPath": "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio 2 Busca minas\\Ejercicio2(W.I.P)\\Ejercicio2(W.I.P).csproj",
         "packagesPath": "C:\\Users\\Fortune\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio2(W.I.P)\\obj\\",
+        "outputPath": "D:\\Escritorio\\DAM\\Programación\\Programación\\Ejercicios y apuntes\\C#\\Visual studio\\Examen\\1º Examen\\Ejercicio 2 Busca minas\\Ejercicio2(W.I.P)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\archivos de programa\\Visual estudio\\shared\\NuGetPackages"

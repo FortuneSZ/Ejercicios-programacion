@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4211371d-5d61-4096-9d35-14209b039a9f": {
+      "ProjectGuid": "4211371d-5d61-4096-9d35-14209b039a9f",
+      "DisplayName": "DokiDokiTetrisClub",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

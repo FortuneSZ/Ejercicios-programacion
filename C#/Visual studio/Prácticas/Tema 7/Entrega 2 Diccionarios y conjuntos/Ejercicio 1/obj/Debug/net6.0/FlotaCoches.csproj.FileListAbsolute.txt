@@ -1,0 +1,15 @@
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\bin\Debug\net6.0\FlotaCoches.exe
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\bin\Debug\net6.0\FlotaCoches.deps.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\bin\Debug\net6.0\FlotaCoches.runtimeconfig.json
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\bin\Debug\net6.0\FlotaCoches.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\bin\Debug\net6.0\ref\FlotaCoches.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\bin\Debug\net6.0\FlotaCoches.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\FlotaCoches.csproj.AssemblyReference.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\FlotaCoches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\FlotaCoches.AssemblyInfoInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\FlotaCoches.AssemblyInfo.cs
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\FlotaCoches.csproj.CoreCompileInputs.cache
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\FlotaCoches.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\ref\FlotaCoches.dll
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\FlotaCoches.pdb
+D:\Escritorio\DAM\Programación\Programación\Ejercicios y apuntes\C#\Visual studio\Prácticas\Tema 7\Entrega 2 Diccionarios y conjuntos\Ejercicio 1\obj\Debug\net6.0\FlotaCoches.genruntimeconfig.cache
